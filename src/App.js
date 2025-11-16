@@ -3,6 +3,29 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
+import React from 'react';
+import './App.css'; // Assuming you have some basic styling
+
+// Import your new component
+import SpeechRecognizer from './components/SpeechRecognizer';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <h1>Welcome to Dishary</h1>
+        <p>This is a demonstration of the updated speech recognition feature.</p>
+        
+        {/* Render your new component here */}
+        <SpeechRecognizer />
+        
+      </header>
+    </div>
+  );
+}
+
+export default App;
+
 // Context Providers
 import { ThemeProvider } from './contexts/ThemeContext';
 import { UserProvider } from './contexts/UserContext';
