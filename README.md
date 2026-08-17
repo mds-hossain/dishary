@@ -1,5 +1,6 @@
 # dishary
 
+```text
 dishary-complete/
 ├── public/
 │   ├── index.html
@@ -74,3 +75,4 @@ dishary-complete/
 ├── netlify.toml
 ├── .env.example
 └── README.md
+```
