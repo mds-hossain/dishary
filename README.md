@@ -1,5 +1,10 @@
 # dishary
 
+```markdown
+## System Structure
+
+**Note:** The full source code for this project is hosted in a private repository for security and privacy reasons. The architectural tree below illustrates the complete build and structural layout of the application.
+
 ```text
 dishary-complete/
 ├── public/
