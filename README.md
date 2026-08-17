@@ -6,7 +6,7 @@ Dishary is an AI-powered, interactive language learning progressive web applicat
 
 ## Live Demo
 
-🌐 **[View the Structural Demo here: dishary.netlify.app](https://dishary.netlify.app/)**
+🌐 **[View the Structural Demo here: dishary.netlify.app](https://dishary.netlify.app/)** *(Tip: Ctrl+Click or middle-click to open in a new tab)*
 
 **Note:** This live deployment serves strictly as a visual and architectural demonstration. To protect proprietary assets, it does not contain the final lesson content or full backend integrations.
 
