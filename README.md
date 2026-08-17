@@ -4,6 +4,14 @@ Dishary is an AI-powered, interactive language learning progressive web applicat
 
 ---
 
+## Live Demo
+
+🌐 **[View the Structural Demo here: dishary.netlify.app](https://dishary.netlify.app/)**
+
+**Note:** This live deployment serves strictly as a visual and architectural demonstration. To protect proprietary assets, it does not contain the final lesson content or full backend integrations.
+
+---
+
 ## Badges
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -50,7 +58,7 @@ This repository serves as a Quality Assurance project showcase. The application 
 
 ## System Architecture
 
-> **Notice:** The complete application source code is maintained within a private repository for security and intellectual property protection. The architectural layout below provides an overview of the system complexity and module boundaries.
+> **Notice:** The complete application source code is maintained within a private repository for security and intellectual property protection. The architectural layout below provides an overview of the system complexity and module boundaries tested during the QA process.
 
 ```text
 dishary-complete/
